@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Simple Python Script Template for GitHub Repository
-Author: Your Name
+Author: MrWEFF
 Date: 2026
 """
 
